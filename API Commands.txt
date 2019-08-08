@@ -1,0 +1,48 @@
+Accounts:
+	GET https://localhost:5001/api/account/
+	- Return all available accounts.
+
+	POST https://localhost:5001/api/account/
+	- Create a new account.
+	Request format:
+	{
+	    "accountName": "account_a",
+	    "balance": 100.0
+	}
+-------------------------------------
+Transactions:
+	GET https://localhost:5001/api/accounttransactions/
+	- Return all available transactions.
+	//Transfer
+	{
+	    "originAccount": "account_a",
+	    "destinationAccount": "account_b",
+	    "amount": 250.0,
+	    "type": 0
+	}
+
+	//Withdraw
+	{
+	    "originAccount": "account_a",
+	    "destinationAccount": "account_a",
+	    "amount": 100.0,
+	    "type": 1
+	}
+
+	//Deposit
+	{
+	    "originAccount": "account_a",
+	    "destinationAccount": "account_a",
+	    "amount": 50.0,
+	    "type": 2
+	}
+-------------------------------------
+Types:
+	0 = Transfer
+	1 = Withdraw
+	2 = Deposit
+-------------------------------------
+Notes:
+	- You cannot create 2 accounts with the same name.
+	- You only can execute Transfers or Withdraws if your account has funds.
+	- For Withdraw/Deposits the system considers "destination_account".

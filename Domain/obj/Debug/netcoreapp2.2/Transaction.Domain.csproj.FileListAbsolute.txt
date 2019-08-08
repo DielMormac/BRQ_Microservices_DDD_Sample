@@ -1,0 +1,9 @@
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Domain\bin\Debug\netcoreapp2.2\Transaction.Domain.deps.json
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Domain\bin\Debug\netcoreapp2.2\Transaction.Domain.dll
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Domain\bin\Debug\netcoreapp2.2\Transaction.Domain.pdb
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Domain\obj\Debug\netcoreapp2.2\Transaction.Domain.csprojAssemblyReference.cache
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Domain\obj\Debug\netcoreapp2.2\Transaction.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Domain\obj\Debug\netcoreapp2.2\Transaction.Domain.AssemblyInfoInputs.cache
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Domain\obj\Debug\netcoreapp2.2\Transaction.Domain.AssemblyInfo.cs
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Domain\obj\Debug\netcoreapp2.2\Transaction.Domain.dll
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Domain\obj\Debug\netcoreapp2.2\Transaction.Domain.pdb

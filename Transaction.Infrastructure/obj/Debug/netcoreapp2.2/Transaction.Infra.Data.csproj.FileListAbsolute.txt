@@ -1,0 +1,14 @@
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Transaction.Infrastructure\bin\Debug\netcoreapp2.2\Transaction.Infra.Data.deps.json
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Transaction.Infrastructure\bin\Debug\netcoreapp2.2\Transaction.Infra.Data.dll
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Transaction.Infrastructure\bin\Debug\netcoreapp2.2\Transaction.Infra.Data.pdb
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Transaction.Infrastructure\bin\Debug\netcoreapp2.2\Transaction.Domain.dll
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Transaction.Infrastructure\bin\Debug\netcoreapp2.2\Transaction.Domain.pdb
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Transaction.Infrastructure\obj\Debug\netcoreapp2.2\Transaction.Infra.Data.csprojAssemblyReference.cache
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Transaction.Infrastructure\obj\Debug\netcoreapp2.2\Transaction.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Transaction.Infrastructure\obj\Debug\netcoreapp2.2\Transaction.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Transaction.Infrastructure\obj\Debug\netcoreapp2.2\Transaction.Infra.Data.AssemblyInfo.cs
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Transaction.Infrastructure\obj\Debug\netcoreapp2.2\Transaction.Infra.Data.csproj.CopyComplete
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Transaction.Infrastructure\obj\Debug\netcoreapp2.2\Transaction.Infra.Data.dll
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Transaction.Infrastructure\obj\Debug\netcoreapp2.2\Transaction.Infra.Data.pdb
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Transaction.Infrastructure\bin\Debug\netcoreapp2.2\Transaction.Infra.Data.runtimeconfig.json
+C:\Users\dricarral\Desktop\Processo Seletivo BRQ\BRQ_microservices_ddd_Sample\Transaction.Infrastructure\bin\Debug\netcoreapp2.2\Transaction.Infra.Data.runtimeconfig.dev.json
